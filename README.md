@@ -18,7 +18,7 @@ Installation & περιεχόμενα:
 * Imports > 02-custom-taxonomies.TXT (απαραίτητα)
 * Imports > 03-custom-fields.json (απαραίτητα)
 * Imports > 04-sample-content.xml
-* Imports > 05-sample-widgets.wie (αν έχει εγκατασταθεί το προτεινόμενο plugin "Widget Importer & Exporter"
+* Imports > 05-sample-widgets.wie (αν έχει εγκατασταθεί το προτεινόμενο plugin "Widget Importer & Exporter")
 
 
 ----------------------------------------------------
