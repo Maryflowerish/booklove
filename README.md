@@ -7,17 +7,18 @@
 Το βασικό θέμα υποστηρίζει ένα μενού (primary) και προστέθηκε δεύτερο (top menu) στην κορυφή της σελίδας, καθώς και δεύτερο sidebar στο footer της σελίδας.
 
 Installation & περιεχόμενα:
+
 Εγκατάσταση του θέματος με το bookstore.zip
 
 Για την λειτουργία των custom post type "books" είναι απαραίτητη η εγκατάσταση του plugin "Custom Post Type UI" και για την λειτουργία των custom fields το plugin "Advanced Custom Fields". To theme βγάζει ανάλογο μήνυμα αμέσως μετά την εγκατάστασή του. Επίσης υποστηρίζει τα google fonts Roboto.
 Επίσης υποστηρίζει shortcode [ct_terms custom_taxonomy={my_custom_taxonomy}]
 
 Δεδομένα για import:
-Imports > 01-custom-post-types.TXT (απαραίτητα)
-Imports > 02-custom-taxonomies.TXT (απαραίτητα)
-Imports > 03-custom-fields.json (απαραίτητα)
-Imports > 04-sample-content.xml
-Imports > 05-sample-widgets.wie (αν έχει εγκατασταθεί το προτεινόμενο plugin "Widget Importer & Exporter"
+* Imports > 01-custom-post-types.TXT (απαραίτητα)
+* Imports > 02-custom-taxonomies.TXT (απαραίτητα)
+* Imports > 03-custom-fields.json (απαραίτητα)
+* Imports > 04-sample-content.xml
+* Imports > 05-sample-widgets.wie (αν έχει εγκατασταθεί το προτεινόμενο plugin "Widget Importer & Exporter"
 
 
 ----------------------------------------------------
