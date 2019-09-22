@@ -7,6 +7,8 @@
 Το βασικό θέμα υποστηρίζει ένα μενού (primary) και προστέθηκε δεύτερο (top menu) στην κορυφή της σελίδας, καθώς και δεύτερο sidebar στο footer της σελίδας.
 
 Installation & περιεχόμενα:
+Εγκατάσταση του θέματος με το bookstore.zip
+
 Για την λειτουργία των custom post type "books" είναι απαραίτητη η εγκατάσταση του plugin "Custom Post Type UI" και για την λειτουργία των custom fields το plugin "Advanced Custom Fields". To theme βγάζει ανάλογο μήνυμα αμέσως μετά την εγκατάστασή του. Επίσης υποστηρίζει τα google fonts Roboto.
 Επίσης υποστηρίζει shortcode [ct_terms custom_taxonomy={my_custom_taxonomy}]
 
